@@ -1,5 +1,5 @@
 
-<html>
+
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -23,4 +23,4 @@
 	<img src = "https://bookie164.github.io/Asteya/IMG_46964-2.jpg" alt="Krishna" Width ="800" height="400">
 	
 </body>
-</html>
+
