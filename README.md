@@ -20,7 +20,7 @@
 <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 <![endif]-->
 <body>
-	<img src = "https://bookie164.github.io/Asteya/
+	<img src = "https://bookie164.github.io/Asteya/IMG_46964-2.jpg" alt="Krishna" Width ="500" height="400">
 	
 </body>
 </html>
