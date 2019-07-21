@@ -27,7 +27,7 @@ img {
 </style>
 <body>
 	<img src = "https://bookie164.github.io/Asteya/IMG_46964-2.jpg" alt="Krishna" Width ="2000" height="400">
-	<a href = =https://bookie164.github.io/Asteya/
+	<a href = =https://bookie164.github.io/Asteya/Ireland.html">ok</a>
 	<h1>About</h1><br>
 	<h2>Write Something here>
 </body>
