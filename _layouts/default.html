@@ -1,20 +1,33 @@
-<!Doctype html>
-<html>
-    <body>
-<style>
-/* This stylesheet sets the width of all images to 100%: */
-img {
-  width: 100%;
-}
-</style>
-<div class="container">
-<div class="first">first</div><div class="third">third</div>
-<div class="second">second</div><div class="fourth">fourth</div><div class="last">last</div>
-</div>​
-<img src = "https://bookie164.github.io/Asteya/IMG_46964-2.jpg" alt="Krishna" Width =auto height=400><br>
-<a href ="https://bookie164.github.io/Asteya/Ireland.html>hmm </a>
-<h1>About</h1>
-<h2>something</h2>   aaa       
-          </body>
-          </html>
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+
+    {% if site.google_analytics %}
+      <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', '{{ site.google_analytics }}');
+      </script>
+    {% endif %}
+    <meta charset="UTF-8">
+
+{% seo %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  </head>
+  <body>
+    <a id="skip-to-content" href="#content">Skip to the content.</a>
+
+    <header class="page-header" role="banner">
+      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
      
+
+  
+    </main>
+  </body>
+</html>
