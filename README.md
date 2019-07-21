@@ -26,7 +26,7 @@ img {
 }
 </style>
 <body>
-	<img src = "https://bookie164.github.io/Asteya/IMG_46964-2.jpg" alt="Krishna" Width ="200" height="40">
+	<img src = "https://bookie164.github.io/Asteya/IMG_46964-2.jpg" alt="Krishna" Width ="2000" height="400">
 	
 </body>
 
